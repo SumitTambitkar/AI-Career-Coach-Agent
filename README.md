@@ -21,8 +21,6 @@ AI Career Coach web application with Career Roadmap Generator, Resume Analyzer, 
 ## Resume Analyzer Result
 ![ResumeResult](screenshots/Resume_Analyzer_Result.png)
 
-## Resume Analyzer Result 1
 ![ResumeResult1](screenshots/Resume_Analyzer_Result1.png)
 
-## Resume Analyzer Result 2
 ![ResumeResult2](screenshots/Resume_Analyzer_Result2.png)
