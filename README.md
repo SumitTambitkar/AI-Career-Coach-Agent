@@ -1,5 +1,5 @@
 # AI-Career-Coach-Agent
-AI Career Coach web application with Career Roadmap Generator, Resume Analyzer, Resume Builder and AI Chatbot
+AI Career Coach web application with  Resume Analyzer, Resume Builder, Career Roadmap Generator and AI Chatbot
 
 # Screenshots
 
@@ -25,6 +25,8 @@ AI Career Coach web application with Career Roadmap Generator, Resume Analyzer, 
 
 ![ResumeResult2](screenshots/Resume_Analyzer_Result2.png)
 
+# Resume Builder
+
 ## Resume Builder Page
 ![ResumeBuilder](screenshots/Resume_Builder_Page.png)
 
@@ -33,6 +35,8 @@ AI Career Coach web application with Career Roadmap Generator, Resume Analyzer, 
 
 ## Download Resume PDF
 ![DownloadPDF](screenshots/Download_Resume_PDF.png)
+
+# Career Roadmap
 
 ## Domain Selection Page
 ![Domain](screenshots/Domain.png)
@@ -46,8 +50,12 @@ AI Career Coach web application with Career Roadmap Generator, Resume Analyzer, 
 ## Generate Roadmap
 ![Roadmap](screenshots/Generate_Roadmap.png)
 
+# AI Chatbot
+
 ## Chatbot Page
 ![Chatbot](screenshots/Chatbot_Page.png)
+
+# Admin Panel
 
 ## Admin Panel Page
 ![AdminPanel](screenshots/Admin_Panel_Page.png)
