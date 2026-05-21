@@ -1,5 +1,5 @@
 # AI-Career-Coach-Agent
-AI Career Coach web application with Career Roadmap Generator, Resume Analyzer, Resume Builder and AI Chatbot
+AI Career Coach web application with  Resume Analyzer, Resume Builder, Career Roadmap Generator and AI Chatbot
 
 # Screenshots
 
