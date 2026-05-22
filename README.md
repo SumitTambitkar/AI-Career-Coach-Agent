@@ -53,7 +53,7 @@ AI Career Coach web application with  Resume Analyzer, Resume Builder, Career Ro
 # AI Chatbot
 
 ## Chatbot Page
-![Chatbot](screenshots/Chatbot_Page1.png)
+![Chatbot](screenshots/Chatbot.png)
 
 # Admin Panel
 
