@@ -20,7 +20,7 @@ AI Career Coach web application with  Resume Analyzer, Resume Builder, Career Ro
 
 <br><br><br>
 
-# Resume Analyzer
+# 📄 Resume Analyzer
 
 ## Resume Analyzer Page
 ![ResumeAnalyzer](screenshots/Resume_Analyzer_Page.png)
@@ -34,7 +34,7 @@ AI Career Coach web application with  Resume Analyzer, Resume Builder, Career Ro
 
 <br><br><br>
 
-# Resume Builder
+# 📝 Resume Builder
 
 ## Resume Builder Page
 ![ResumeBuilder](screenshots/Resume_Builder_Page.png)
@@ -47,7 +47,7 @@ AI Career Coach web application with  Resume Analyzer, Resume Builder, Career Ro
 
 <br><br><br>
 
-# Career Roadmap
+# 🛣 Career Roadmap
 
 ## Domain Selection Page
 ![Domain](screenshots/Domain.png)
@@ -63,14 +63,14 @@ AI Career Coach web application with  Resume Analyzer, Resume Builder, Career Ro
 
 <br><br><br>
 
-# AI Chatbot
+# 🤖 AI Chatbot
 
 ## Chatbot Page
 ![Chatbot](screenshots/Chatbot.png)
 
 <br><br><br>
 
-# Admin Panel
+# ⚙ Admin Dashboard
 
 ## Admin Panel Page
 ![AdminPanel](screenshots/Admin_Panel_Page.png)
