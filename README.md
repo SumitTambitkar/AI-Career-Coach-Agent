@@ -32,6 +32,8 @@ AI Career Coach web application with  Resume Analyzer, Resume Builder, Career Ro
 
 ![ResumeResult2](screenshots/Resume_Analyzer_Result2.png)
 
+<br><br>
+
 # Resume Builder
 
 ## Resume Builder Page
@@ -42,6 +44,8 @@ AI Career Coach web application with  Resume Analyzer, Resume Builder, Career Ro
 
 ## Download Resume PDF
 ![DownloadPDF](screenshots/Download_Resume_PDF.png)
+
+<br><br>
 
 # Career Roadmap
 
@@ -57,10 +61,14 @@ AI Career Coach web application with  Resume Analyzer, Resume Builder, Career Ro
 ## Generate Roadmap
 ![Roadmap](screenshots/Generate_Roadmap.png)
 
+<br><br>
+
 # AI Chatbot
 
 ## Chatbot Page
 ![Chatbot](screenshots/Chatbot.png)
+
+<br><br>
 
 # Admin Panel
 
