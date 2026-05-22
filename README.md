@@ -15,6 +15,8 @@ AI Career Coach web application with  Resume Analyzer, Resume Builder, Career Ro
 ## Sign Up Page
 ![SignUp](screenshots/Sign_Up.png)
 
+# Resume Analyzer
+
 ## Resume Analyzer Page
 ![ResumeAnalyzer](screenshots/Resume_Analyzer_Page.png)
 
